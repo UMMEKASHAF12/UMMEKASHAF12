@@ -28,7 +28,7 @@
  
  ## 🚀 Technologies I know
 
--- 💻 HTML, CSS, JavaScript
+-  💻 HTML, CSS, JavaScript
 -  ⚛️ React JS, Bootstrap, Tailwind CSS
 -  🧠 Firebase, Supabase, MongoDB (learning)
 -  🛠️ Git & GitHub
@@ -59,7 +59,7 @@
 
 
 
-## ❤ Views and Followers
+##  Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=UMMEKASHAF12">
 </a>
